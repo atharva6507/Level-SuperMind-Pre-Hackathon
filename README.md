@@ -43,5 +43,3 @@ This project utilizes **LangFlow** and **Datastax Astra DB** to analyze social m
 - Interactive and user-friendly output presentation.
 
 ---
-
-Feel free to adapt the flow and its components to meet the specific needs of your project.
